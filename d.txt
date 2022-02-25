@@ -1,9 +1,0 @@
-inline.cpp
-swap.cpp
-1.cpp
-overload.cpp
-static.cpp
-constructer.cpp
-friend.cpp
-refernce.cpp
-copyconstuctor.cpp
